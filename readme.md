@@ -5,4 +5,4 @@ Iris listens to a  twitter user you want to follow, captures that accounts tweet
 
 Iris works on private accounts, can capture images, and has more features on the way.....
 
--Marsyas Tornado
+-Marsyas Codex
